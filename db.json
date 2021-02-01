@@ -1,54 +1,29 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
       "nombre": "Rib Eye 800g",
-      "precio": "200",
+      "precio": "400",
       "id": 4
     },
     {
-      "nombre": "Jugo de Fresa",
-      "precio": "200",
-      "id": 5
-    },
-    {
-      "nombre": "tequila",
-      "precio": 200,
-      "id": 6
-    },
-    {
-      "nombre": "pollito",
-      "precio": 12,
-      "id": 7
-    },
-    {
       "nombre": "pc gamer",
-      "precio": 1000000,
+      "precio": "1100000",
       "id": 8
     },
     {
       "nombre": "Xiaomi mi 9T",
-      "precio": 950000,
+      "precio": "960000",
       "id": 9
     },
     {
       "nombre": "Realme c4",
-      "precio": 350000,
+      "precio": "360000",
       "id": 10
+    },
+    {
+      "nombre": "Mouse VSG",
+      "precio": "170000",
+      "id": 11
     }
   ]
 }
